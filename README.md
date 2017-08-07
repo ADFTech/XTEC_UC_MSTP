@@ -1,2 +1,2 @@
 # XTEC_UC_MSTP
-XTEC-UC MSTP (UI18 version)
+XTEC-UC MSTP (UI18 and UI22 version)
